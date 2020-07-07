@@ -1,0 +1,52 @@
+#container {
+  background-color: lightgrey;
+}
+
+
+h2 {
+  text-align: center;
+
+}
+
+table,
+th,
+td,
+tr {
+  margin-left: 208px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.data {
+  width: 165px;
+}
+
+#form {
+  margin-left: 218px;
+}
+
+.name {
+  display: inline-block;
+}
+
+.details {
+  display: inline-block;
+}
+
+.aligns {
+  width: 260px;
+}
+
+input {
+  background-color: lightblue;
+}
+
+button {
+  margin-left: 217px;
+}
+
+td {
+  height: 24px;
+  padding-right: 20px;
+}
